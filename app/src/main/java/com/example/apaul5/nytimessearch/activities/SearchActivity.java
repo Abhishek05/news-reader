@@ -47,7 +47,9 @@ public class SearchActivity extends AppCompatActivity {
     Button btSearch;
     //GridView gvResult;
 
-    ListView lvView;
+    //ListView lvView;
+
+    GridView gvResults;
 
     //RecyclerView gvResult;
 
@@ -74,7 +76,8 @@ public class SearchActivity extends AppCompatActivity {
         edText = (EditText) findViewById(R.id.edSearch);
         //gvResult = (GridView) findViewById(R.id.gridView);
 
-        lvView = (ListView)findViewById(R.id.lvView);
+        //lvView = (ListView)findViewById(R.id.lvView);
+        gvResults = (GridView)findViewById(R.id.gvResults);
         btSearch = (Button) findViewById(R.id.btSearch);
 
         //request = new RequestModel();
@@ -82,10 +85,10 @@ public class SearchActivity extends AppCompatActivity {
         articles = new ArrayList<Article>();
 
         articleArrayAdapter = new ArticleArrayAdapter(this,articles);
-        //gvResult.setAdapter(articleArrayAdapter);
-        lvView.setAdapter(articleArrayAdapter);
+        gvResults.setAdapter(articleArrayAdapter);
+        //lvView.setAdapter(articleArrayAdapter);
 
-        lvView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+        gvResults.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
                 Intent intent = new Intent(getApplicationContext(), ArticleActivity.class);
@@ -100,7 +103,7 @@ public class SearchActivity extends AppCompatActivity {
                 new StaggeredGridLayoutManager(2, StaggeredGridLayoutManager.VERTICAL);
         gridLayoutManager.setGapStrategy(StaggeredGridLayoutManager.GAP_HANDLING_NONE);
 
-        lvView.setOnScrollListener(new EndlessScrollListener(){
+        gvResults.setOnScrollListener(new EndlessScrollListener(){
 
 
             @Override

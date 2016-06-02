@@ -1,2 +1,96 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Users/apaul5/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/apaul5/AndroidStudioProjects/NYTimesSearch/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_c8673240b804cc81f5e21a0e94b5043550a133dd/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apaul5/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/apaul5/AndroidStudioProjects/NYTimesSearch/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_068dbbd0824243e02a59a95aabb2f6b6df5fae03/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apaul5/AndroidStudioProjects/NYTimesSearch/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/apaul5/AndroidStudioProjects/NYTimesSearch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_d9bbe7d1c93add38bc1a00d60fb976d9a29d2e37/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apaul5/AndroidStudioProjects/NYTimesSearch/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fa172e67739c800142960f18d191dcc2ab337d3a">
+        <dex dex="/Users/apaul5/AndroidStudioProjects/NYTimesSearch/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e7dfd39c61e952518abfc3d3086ec9acf01cc992/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apaul5/AndroidStudioProjects/NYTimesSearch/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/apaul5/AndroidStudioProjects/NYTimesSearch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_990351d11d3d6fde1ea1eddcd47c211c1852ead5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apaul5/AndroidStudioProjects/NYTimesSearch/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/apaul5/AndroidStudioProjects/NYTimesSearch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_ab863a48ee5a8b491a11d10d5b96f61c030efd0b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apaul5/AndroidStudioProjects/NYTimesSearch/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8f7c5bf11c68ae009abec482c59b1d5a7153126f">
+        <dex dex="/Users/apaul5/AndroidStudioProjects/NYTimesSearch/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ae68fbf67d4eeaabb215c364f719957958e0c5b9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apaul5/AndroidStudioProjects/NYTimesSearch/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/apaul5/AndroidStudioProjects/NYTimesSearch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_c74968a93433ac555b3b2d3ad302606a2000e044/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apaul5/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/Users/apaul5/AndroidStudioProjects/NYTimesSearch/app/build/intermediates/transforms/dex/debug/folders/1000/10/httpclient-4.3.6_bfea3f807bd83e637dfee2b337a6e63d4fd3da48/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apaul5/AndroidStudioProjects/NYTimesSearch/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/apaul5/AndroidStudioProjects/NYTimesSearch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_2e343414c53f711a73e61077335f7e431a9baaaf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apaul5/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/Users/apaul5/AndroidStudioProjects/NYTimesSearch/app/build/intermediates/transforms/dex/debug/folders/1000/10/android-async-http-1.4.9_84e77391171edd103002ed6c53d3c66464185e87/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apaul5/AndroidStudioProjects/NYTimesSearch/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/apaul5/AndroidStudioProjects/NYTimesSearch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_ca09390501b2da526f8e54cc5b11614ad044da78/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apaul5/AndroidStudioProjects/NYTimesSearch/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/apaul5/AndroidStudioProjects/NYTimesSearch/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_df05270d6b3f22f93487579ede565b7da17c5100/classes.dex" />
+    </item>
+
+</items>
